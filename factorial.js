@@ -1,3 +1,7 @@
+const arrow = () => {
+  console.log("arrow");
+};
+
 const primeNumber = () => {
   console.log("primeNumber");
 };
